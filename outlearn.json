@@ -1,0 +1,23 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "directives-controllers-services",
+      "title" : "When To Use Directives, Controllers, or Services in AngularJS",
+      "description" : "Why each concept is great at what they’ve been designed for, and why we’d use them in that fashion.",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "directives-controllers-services"}
+      ]
+    }
+  ],
+  "modules" : [
+    {
+      "olm" : "./modules/directives-controllers-services.md"
+    }
+  ],
+
+  "assets" : [
+  ]
+}
