@@ -30,7 +30,7 @@ If you’ve worked with Angular JS already, you may have come across services - 
 
 First we’ll setup a module. We’ll use this throughout the article. For a refresher on modules, check out the official Angular docs.
 
-<!-- @link, "url" : "https://docs.angularjs.org/guide/module", "task": "Make sure you are good with the basics of modules." -->
+<!-- @link, "url" : "https://docs.angularjs.org/guide/module", "text": "Make sure you are good with the basics of modules." -->
 
 
 ```javascript
